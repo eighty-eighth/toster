@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+*.ai
+*.log
+*.pdf
+*.psd
+node_modules/
+npm-debug.*
+build/
+tmp/
